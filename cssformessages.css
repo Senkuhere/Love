@@ -73,6 +73,7 @@ h1 {
 }
 .text:hover {
     transform: scale(1.1);
+    box-shadow: 3px 2px 5px lightsalmon, -3px -2px 5px violet;;
 }
 
 

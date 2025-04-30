@@ -1,0 +1,262 @@
+body {
+    background-image: url(pics/lovelovebg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    font-family: "Comic Sans MS";
+    font-size: 60px;
+    color: pink;
+    margin-left:10px ;
+    margin-bottom: 5px;
+
+}
+
+.navbar {
+    position:relative;
+    left:65%;
+    border: 1px solid;
+    border-color: pink;
+    border-radius: 30px;
+    width: 500px;
+    top:30px;
+    background-color: rgb(255,255,255, 0.15);
+    backdrop-filter: blur(10px);
+    box-shadow: 5px 3px 5px;
+}
+.navbar ul {
+    list-style: none;
+    justify-content: space-around;
+    display: flex;
+
+    
+}
+.navbar a {
+    text-decoration: none;
+    color: pink;
+    display: block;
+    
+}
+.navbar a:hover {
+    color: coral;
+    
+}
+.pics ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+   
+}
+
+.imgedit {
+    width: 400px;
+    height: 400px;
+    border: 2px solid;
+    border-radius: 20px;
+    border-color: pink;  
+    box-shadow: 5px 5px 5px;
+    transition: transform 0.2s;
+    
+}
+.note#pic1  {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic2 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic3 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic4 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic5 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic6 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic7 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic8 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic9 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic10 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic11 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic12 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic13 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic14 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic15 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic16 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic17 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic18 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic19 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.note#pic20 {
+    color: pink;
+    margin-top: 2px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+
+
+.imgedit:hover {        
+    transform: scale(0.95);
+    opacity: 0.9;
+    box-shadow: 3px 2px 5px lightsalmon, -3px -2px 5px violet;
+   
+    
+}
+
+
+
+
+
+
+
+
+
+
